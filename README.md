@@ -1,5 +1,4 @@
-### Demo
-https://nextlanding.netlify.app/
+
 
 ### Getting Started
 
