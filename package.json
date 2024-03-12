@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3001",
-    "build": "next build && next export"
+    "dev": "node --openssl-legacy-provider node_modules/next/dist/bin/next dev -p 3001"
   },
+  
   "dependencies": {
     "dotenv": "^8.2.0",
     "framer-motion": "^2.7.5",
